@@ -7,3 +7,20 @@ header {
     background-size: 250px;
     background-color: rgb(140, 194, 244);
 }
+
+#article-title {
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.title-caption {
+    color: rgba(128, 128, 128, 0.90);
+}
+
+#autore {
+    color: rgb(2, 196, 255);
+}
+
+.img-caption {
+    font-size: 12px;
+}
