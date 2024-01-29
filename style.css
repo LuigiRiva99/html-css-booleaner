@@ -24,3 +24,11 @@ header {
 .img-caption {
     font-size: 12px;
 }
+
+#tr-head {
+    background-color: rgb(54, 163, 246);
+}
+
+#tr-body {
+    background-color: lightblue;
+}
