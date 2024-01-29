@@ -29,6 +29,32 @@ header {
     background-color: rgb(54, 163, 246);
 }
 
-#tr-body {
+.tr-body {
     background-color: lightblue;
+}
+
+#last-p {
+    color: grey;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.footer-img {
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+}
+
+#footer-span {
+    font-size: 23px;
+    color: white;
+    font-weight: bold;
+}
+
+#monitor {
+    background-image: url(img/monitor.jpg);
+}
+
+#graph {
+    background-image: url(img/graph.jpg);
 }
