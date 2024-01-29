@@ -1,11 +1,16 @@
 #main-title {
     width: 200px;
+    margin-top: 4%;
+    margin-left: 8%;
+    margin-bottom: 1%;
 }
 
 header {
     background-image: url(./img/pattern.png);
     background-size: 250px;
     background-color: rgb(140, 194, 244);
+    width: 60%;
+    margin: auto;
 }
 
 #article-title {
@@ -57,4 +62,30 @@ header {
 
 #graph {
     background-image: url(img/graph.jpg);
+}
+
+main, footer {
+    width: 50%;
+    margin: auto;
+}
+
+td {
+    width: 700px;
+}
+
+th {
+    text-align: left;
+    color: white;
+}
+
+table {
+    border-spacing: 0px;
+}
+
+body {
+    margin: 0px;
+}
+
+ul {
+    padding-left: 2%;
 }
